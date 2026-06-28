@@ -1,6 +1,6 @@
 # Project Asgard 🏛️
 
-Project Asgard is an open-source framework designed to help students and enthusiasts backtest equity index strategies while avoiding common industry pitfalls. At its heart is **Gungnir**, a precision backtesting engine built to ensure that quantitative strategies are grounded in reality.
+Project Asgard is an open-source framework designed to help students and enthusiasts backtest equity index strategies while avoiding common industry pitfalls. It is developed as part of a project by an upcoming new mandate of the **John Molson Trading League (JMTL)**. At its heart is **Gungnir**, a precision backtesting engine built to ensure that quantitative strategies are grounded in reality.
 
 ## ⚠️ Disclaimer & Legal Notice
 **THIS SOFTWARE IS FOR EDUCATIONAL PURPOSES ONLY.**
@@ -32,7 +32,9 @@ We are actively looking to expand the framework to include:
 - **Synthetic Replication**: Using options and futures to backtest the cost and efficiency of replicating index returns synthetically.
 
 ## 🤝 Call for Collaborators
-This project was initiated as part of a student-led effort. While the core logic is functional, it is still in a rough, early-stage version. I am looking for passionate students and quant enthusiasts to:
+This project was initiated by **Valentino Magniette-Bosseboeuf** as part of a student-led effort. While the core logic is functional, it is still in a rough, early-stage version. I am looking for passionate students and quant enthusiasts to:
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/valentino-mb/) for collaboration or questions.
 - **Audit the Logic**: Help find bugs or mathematical errors in the weighting and backtesting engines.
 - **Improve Efficiency**: Optimize the data pipeline.
 - **Expand Strategies**: Implement new index selection criteria.
